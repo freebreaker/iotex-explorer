@@ -123,7 +123,7 @@
     "@sendgrid/client": "6.4.0",
     "@types/bcryptjs": "2.4.2",
     "@types/bech32": "1.1.1",
-    "@types/config": "0.0.34",
+    "@types/config": "0.0.35",
     "@types/dateformat": "3.0.0",
     "@types/dotenv": "6.1.1",
     "@types/dottie": "2.0.3",
